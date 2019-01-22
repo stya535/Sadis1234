@@ -17,4 +17,4 @@
 # under the License.
 #
 
-__all__ = ['Thrift', 'TSCons']
+__all__ = ['TTransport', 'TSocket', 'THttpClient', 'TZlibTransport']
